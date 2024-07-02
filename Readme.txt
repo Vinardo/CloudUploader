@@ -1,1 +1,1 @@
-This is a new Project started by Vin. The purpose if this project is to use GIT and bash scripts so we can up-skill. The project's task is to create script file which will upload any file from your pc to a cloud vender. In this example we are going to user AWS. 
+This is a new Project started by Vin. The purpose of this project is to use GIT and bash scripts so we can up-skill. The project's task is to create script file which will upload any file from your pc to a cloud vender. In this example we are going to user AWS. 
